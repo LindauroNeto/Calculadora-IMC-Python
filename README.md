@@ -1,2 +1,3 @@
-# Calculadora-IMC-Python
-Programa que conduz um cálculo que após colher os dados do usuário, informa seu IMC.
+# Calculadora IMC Python
+Um dos primeiros projetos que desenvolvo no Python, ela primeiro recolhe os dados do peso e da altura do usuário, realiza a conta e o informa como é seu estado, e ainda funciona caso o usuário queira fazer uma nova consulta.
+### Pode parecer pouco avanço comparado da última vez, mas é por que eu estava no foco de estudo em outra coisa interessante...
